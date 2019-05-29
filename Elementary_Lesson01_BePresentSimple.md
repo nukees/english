@@ -78,4 +78,4 @@ We're from two small towns in the south(11), Salalah and Mirbat. They are(12) by
 - DIETER. No, I'M Austrian, but I'M in Leicester for six months. It'S an interesting city.
 - KATIE. Look, the bus IS here! I hope it'S warm inside. After you, Dieter. Come on Asif.
   
-** TEXT ** - Ошибки допущенные в уроке
+**TEXT** - Ошибки допущенные в уроке
