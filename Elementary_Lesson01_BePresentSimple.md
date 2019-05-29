@@ -8,7 +8,7 @@ I'm 20 and I'm(1) a student. My father is(2) from Brazil. My mother isn't(3) fro
 3. Paul and Simon are my brothers.
 
 ## _B: Home, nationality and jobs_
-Paola and Fredericom are from Naples. Naples is(1) in the south of Italy. Paola is(2) a photographer and Frederico is(3) a dentist. We are(4) artists. we are(4) English. We are(5) from London. I'm(7) a teacher. This is my husband, Tom. We are(8) from Scotland.
+Paola and Frederico are from Naples. Naples is(1) in the south of Italy. Paola is(2) a photographer and Frederico is(3) a dentist. We are(4) artists. We are(5) English. We are(6) from London. I'm(7) a teacher. This is my husband, Tom. We are(8) from Scotland.
 
 ## _C: The weather and location_
 - sunny (10)
@@ -60,22 +60,22 @@ We're from two small towns in the south(11), Salalah and Mirbat. They are(12) by
 - WAITER. Good morning, ladies. Would you like something to eat?
 - SALLY. I'm not(10) hungry, thanks, but I'd like an orange juice, please.
 - LIGA. I'm(11) thirsty, too. A lemonade, please.
-- SALLY. Well, it's good to meet you, Liga, if only for a day!
+- SALLY. Well, it's(12) good to meet you, Liga, if only for a day!
 
 ## _F: At a bus stop_
 - ASIF. Look at the time. It's two in the morning. Where ARE we?
 - KATIE. On Burley Street, I think. ARE you hyngry, Asif?
-- ASIF. No. I'M NOT hungry, but I tired. Where IS the bus stop?
+- ASIF. No. I'M NOT hungry, but I **AM** tired. Where IS the bus stop?
 - KATIE. Look, it IS there! Come on!
 - (At the bus stop they eet Dieter.)
 - ASIF. Excuse me. IS this the bus stop for Rayne's Park?
 - DIETER. Yes, I hope so. It'S a cold night.
 - KATIE. Hi. I'M Katie and this IS my friend Asif.
 - DIETER. Pleased to meet you. I'M Dieter. ARE you students?
-- KATIE. No, we AREN'T students. We ARE doctors. And you?
+- KATIE. No, we'RE NOT students. We'RE doctors. And you?
 - DIETER. I'M a waiter at the Hamburger restaurant on Park Street.
 - ASIF. Where ARE you from? ARE you german?
 - DIETER. No, I'M Austrian, but I'M in Leicester for six months. It'S an interesting city.
 - KATIE. Look, the bus IS here! I hope it'S warm inside. After you, Dieter. Come on Asif.
   
-  
+** TEXT ** - Ошибки допущенные в уроке
